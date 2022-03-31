@@ -1,7 +1,7 @@
 {
   "name": "strapi-plugin-navigation",
   "version": "1.0.3",
-  "description": "Strapi - Navigation plugin",
+  "description": "Strapi - Navigation plugin for CERV",
   "strapi": {
     "name": "Navigation",
     "icon": "hamburger",
